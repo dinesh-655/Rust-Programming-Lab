@@ -1,4 +1,4 @@
-📘# Chapter 4: Functions and Strings
+# Chapter 4: Functions and Strings
 
 This repository contains solutions to exercises from **Chapter 4** of a Rust programming course. The chapter focuses on the following topics:
 
